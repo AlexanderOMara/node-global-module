@@ -1,0 +1,21 @@
+{
+	"name": "global-module",
+	"description": "Exports global as a module",
+	"version": "1.0.0",
+	"keywords": [
+		"global",
+		"module",
+		"node",
+		"node.js"
+	],
+	"author": "Alexander O'Mara",
+	"copyright": "Copyright (c) 2018 Alexander O'Mara",
+	"license": "MPL-2.0",
+	"main": "index",
+	"types": "index.d.ts",
+	"repository": "https://github.com/AlexanderOMara/node-global-module",
+	"bugs": "https://github.com/AlexanderOMara/node-global-module/issues",
+	"dependencies": {
+		"@types/node": "*"
+	}
+}
